@@ -16,7 +16,7 @@ body {
 
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
     color: #ffffff;
-    font-size: 30pt;
+    font-size: 40pt;
     text-decoration: none;
 }
 
@@ -25,7 +25,7 @@ body {
 }
 
 h1, h2, h3, h4 {
-    font-family: 'Lobster', cursive;
+    font-family: 'Rajdhani', cursive;
 }
 
 .date {
